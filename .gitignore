@@ -217,5 +217,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-data/
+# Database
+*.db
+
+# Logs
 logs/
+
+data/
